@@ -1,6 +1,6 @@
 #include <QApplication>
 #include "core/NiiVolumeLoader.h"
-#include "ui/MainWindow.h"
+#include "ui_widgets/MainWindow.h"
 
 int main(int argc, char* argv[]) {
     NiiVolumeLoader::RegisterFactories();

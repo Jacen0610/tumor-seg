@@ -31,10 +31,10 @@ add_executable(tumor_seg
         src/core/SliceExtractor.cpp
         src/core/CaseLoader.h
         src/core/CaseLoader.cpp
-        src/ui/SliceView.h
-        src/ui/SliceView.cpp
-        src/ui/MainWindow.h
-        src/ui/MainWindow.cpp
+        src/ui_widgets/SliceView.h
+        src/ui_widgets/SliceView.cpp
+        src/ui_widgets/MainWindow.h
+        src/ui_widgets/MainWindow.cpp
         src/core/TensorRTInferenceEngine.h
         src/core/TensorRTInferenceEngine.cpp
         src/core/DisplayTransform.h
