@@ -1,0 +1,12 @@
+# CLion/CMake构建产物
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+
+# TensorRT engine文件 —— 和你这台机器的GPU/驱动/TensorRT版本强绑定，
+# 换一台机器基本作废，没有分享价值，体积也可能不小
+models/*/model.engine
+
+# 编辑器相关
+.idea/
+*.user
