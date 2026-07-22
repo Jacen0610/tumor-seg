@@ -3,14 +3,7 @@
 #include <QResizeEvent>
 #include <array>
 #include "../core/SliceExtractor.h"
-
-// 分割类别叠加颜色配置
-struct OverlaySettings {
-    bool showNCR = true;
-    bool showED = true;
-    bool showET = true;
-    float opacity = 0.5f;
-};
+#include "../core/OverlaySettings.h"
 
 class SliceView : public QLabel {
     Q_OBJECT

@@ -1,0 +1,3 @@
+[submodule "third_party/MMaterial"]
+	path = third_party/MMaterial
+	url = https://github.com/MarkoStanojevic12/MMaterial.git
