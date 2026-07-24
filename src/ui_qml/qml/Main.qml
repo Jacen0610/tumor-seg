@@ -50,7 +50,7 @@ ApplicationWindow {
                         width: parent.width
                         text: Backend.modelInfoText()
                         font.family: "monospace"
-                        font.pixelSize: 16
+                        font.pixelSize: 15
                         wrapMode: Label.Wrap
                         color: palette.text
                     }
