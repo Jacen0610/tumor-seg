@@ -15,7 +15,7 @@
 
 > 6 面板布局：上排为原始 MRI 三视图，下排为对应的分割结果叠加视图。分割区域用红/绿/黄三色分别标注坏死核心(NCR)、水肿(ED)、增强肿瘤(ET)。
 
-（此处建议替换为实际界面截图）
+![image](docs/screenshots/function_show_widgets.png)
 
 ## 技术栈
 
